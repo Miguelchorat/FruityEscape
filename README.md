@@ -16,7 +16,7 @@ Las imagenes usadas para el mapa de bits pertenecen a [Pixabay](https://pixabay.
 
 Las imagenes usadas para el videojuego y página web se han obtenido de [Mixkit](https://mixkit.co/free-sound-effects/). La [licencia](https://mixkit.co/license/#sfxFree) de los audios de Mixkit son de libre uso comercial y no comercial sin necesidad de atribuir al autor. Aunque se pide que no uses los audios para venderlos.
 
-Los formatos usados son **WAV**, **MP3** y **FLAC**. **WAV** solo es el formato con el que nos descargamos el audio, no será usado para el videojuego ni la página web ya que no tiene comprensión y pesa mucho. **MP3** será el primer audio usado para la página web al ser ligera y estandarizada. Y por ultimo será **FLAC** un formato sin perdida en la compresión pero pesa la mitad del formato sin compresión.
+Los formatos usados son **WAV**, **MP3** y **FLAC**. **WAV** solo es el formato con el que nos descargamos el audio, no será usado para el videojuego ni la página web ya que no tiene comprensión y pesa mucho. **MP3** será el primer audio usado para la página web al ser ligera, estandarizada y la calidad sera de 320kbps. Y por ultimo será **FLAC** un formato sin perdida en la compresión pero pesa la mitad del formato sin compresión.
 
 El conversor de audio usado es [online-audio-converter](https://online-audio-converter.com/es/).
 
