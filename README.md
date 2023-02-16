@@ -10,7 +10,7 @@ Para crear el logo del videojuego se ha usado el programa de **Affinity Desginer
 
 ## Imagen
 
-Las imagenes usadas para el mapa de bits pertenecen a [Pixabay](https://pixabay.com/es/). La [licencia](https://pixabay.com/es/service/license/) de las imagenes de Pixabay son de libre uso comercial y no comercial sin necesidad de atribuir al autor.
+Las imagenes usadas para el mapa de bits pertenecen a [Pixabay](https://pixabay.com/es/). La [licencia](https://pixabay.com/es/service/license/) de las imagenes de Pixabay son de libre uso comercial y no comercial sin necesidad de atribuir al autor. El formato que se usará para impresión es TIFF por mantener una buena relación de calidad. Para web usaremos los formatos JPG y WEBP gracias a su compresión para tener un bajo peso.
 
 ## Audio
 
